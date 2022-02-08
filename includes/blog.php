@@ -1,23 +1,21 @@
+<h1>BLOG</h1>
+
 <div>
-    <h1>BLOG</h1>
-
-
     <ul>
         <li>
             <p>C’est une scène tout droit sortie d’une comédie noire qui s’est déroulée dans un bureau de poste de Carlow en Irlande le vendredi 22 janvier. Trois hommes se sont présentés au guichet pour retirer l’argent de la pension du plus âgé du trio. Âgé et visiblement mal en point puisque ses deux compagnons avaient toutes les peines du monde à le maintenir debout et qu’il semblait incapable de répondre aux questions de l’employé de la poste.</p>
             <a href="https://www.parismatch.com/Actu/Insolite/Pour-retirer-de-l-argent-ils-se-presentent-au-guichet-avec-un-cadavre-1784235">Paris Match</a>
         </li>
-    </ul>
-    <br>
+        </ul>
+        <br>
     <ul>
-
         <li>
         <p>Une escroquerie consistant à vous faire confirmer des opérations de paiement à votre insu est en pleine recrudescence. Raccrochez !</p>
         <a href="https://www.quechoisir.org/actualite-arnaque-des-banquiers-tres-bien-imites-n98399/">Que Choisir</a>
         </li>
     </ul>
         <br>
-        <ul>
+    <ul>
         <li>
         <p>La France est enfin le pays des bonnes nouvelles sur le front de l’emploi, mais elle n’a pas pour autant réduit son problème du chômage de longue durée.</p>
         <a href="https://www.lopinion.fr/economie/chomage-bonne-nouvelle-on-entre-dans-le-dur">L'opignon</a>
@@ -38,5 +36,4 @@
         <a href="https://www.admagazine.fr/adadresses/article/iles-martinique-reunion-maurice-meilleurs-airbnb-reserver-vacances-fevrier">AD Magasine</a>
         </li>
     </ul>
-
 </div>
