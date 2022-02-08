@@ -1,3 +1,3 @@
 <?php
 
-include "/includes/about.php";
+include __DIR__ . "/includes/about.php";
